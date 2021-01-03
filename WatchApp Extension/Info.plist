@@ -43,7 +43,7 @@
 		<key>NSExtensionAttributes</key>
 		<dict>
 			<key>WKAppBundleIdentifier</key>
-			<string>$(MAIN_APP_BUNDLE_IDENTIFIER).LoopWatch</string>
+			<string>fr.pierrelagarde.loopkit.Loop.LoopWatch</string>
 		</dict>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.watchkit</string>
